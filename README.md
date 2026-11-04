@@ -1,5 +1,21 @@
-This repository contains applied statistical and econometric analyses conducted using Stata, focusing on regression modeling, diagnostic testing, and data-driven inference across multiple real-world datasets. The studies emphasize rigorous statistical methodology, transparent assumptions, and reproducible workflows documented through Stata log outputs.
-The analyses include ordinary least squares (OLS) models applied to cross-sectional and panel-style datasets, with careful interpretation of coefficients, goodness-of-fit measures, and economic meaning. Multiple functional forms are explored, including level-level, log-level, and log-log specifications, alongside nonlinear transformations such as squared terms and interaction effects.
-Key topics covered include market concentration analysis using the Herfindahl–Hirschman Index (HHI), airline route pricing behavior, labor and wage determinants, housing price modeling, retirement plan participation, political economy applications, and health-related outcomes. Extensive exploratory data analysis is performed using summary statistics, correlation matrices, scatterplots, and histograms to assess variable distributions and relationships.
-The studies also address model diagnostics and robustness, including residual analysis, hypothesis testing, joint parameter restrictions, interaction terms, outlier handling, and data cleaning procedures. Robust standard errors are employed where appropriate to account for heteroskedasticity, reinforcing valid statistical inference.
-All included materials reflect applied statistical reasoning grounded in mathematical foundations, with an emphasis on clarity, reproducibility, and real-world analytical relevance.
+# Statistical Analysis & Econometrics (Stata)
+
+Applied econometrics projects using Stata. Each analysis covers data exploration, regression modeling, diagnostics, and interpretation on real-world datasets.
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [401k Participation Regression](401k_Participation_Regression_Analysis.pdf) | Determinants of employee 401(k) participation rates |
+| [Housing Price Regression](Housing_Price_Regression_Analysis.pdf) | Hedonic model of house prices using size, bedrooms, and style |
+| [Airline Route Pricing & Market Concentration](Airline_Route_Pricing_Market_Concentration_Analysis.pdf) | Fare determinants and HHI effects on U.S. airline routes |
+| [Workers’ Compensation Injury Claims](Workers_Compensation_Injury_Claims_Analysis.pdf) | Duration of benefits, medical costs, and injury characteristics |
+
+## Methods
+- OLS regression
+- Log transformations and nonlinear terms
+- Robust standard errors / hypothesis testing
+- Summary statistics, correlations, and scatterplots
+
+## Tools
+Stata
