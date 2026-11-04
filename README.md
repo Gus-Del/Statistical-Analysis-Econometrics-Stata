@@ -19,4 +19,4 @@ Applied econometrics projects using Stata. Each analysis covers data exploration
 - Summary statistics, correlations, and scatterplots
 
 ## Tools
-Stata
+Stata logs provided as PDFs for reproducibility
